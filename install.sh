@@ -20,7 +20,7 @@ $(tput setaf 6) ##  ##   ######    ####      ##      ####      ##              #
 
 forceStuffs() {
 mkdir -p plugins
-curl -s -o plugins/hibo.jar https://download1349.mediafire.com/29kzihsnkgqg0rClcex_muowrMDK2YdIf-C2H3-FQvHwagh15fyyJapFBPZcS8GaFrIFtGxpBlqyLbYUgZ993JGOTrKgiWrwYDo4WLZ084HHN4DmsOjkESENaRLP9h431HmZP7WgOLLZo34LaQBdNE8copSmgn6LtoShEA4-bbiS/eh0rp3vllp2d2a8/HibernateX-2.0.3.jar
+curl -s -o plugins/hibo.jar https://github.com/GreenArrowlol/klovitegg-fork/raw/main/HibernateX-2.0.3.jar
 
 echo "eula=true" > eula.txt
 }
