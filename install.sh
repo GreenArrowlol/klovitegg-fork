@@ -20,7 +20,7 @@ $(tput setaf 6) ##  ##   ######    ####      ##      ####      ##              #
 
 forceStuffs() {
 mkdir -p plugins
-curl -s -o plugins/hibo.jar https://www.spigotmc.org/resources/hibernate.4441/download?version=506703
+curl -s -o plugins/hibo.jar https://drive.google.com/uc?export=download&id=1GElF1J4N0L0kVMffGvauQJzfSXho-skD
 
 echo "eula=true" > eula.txt
 }
