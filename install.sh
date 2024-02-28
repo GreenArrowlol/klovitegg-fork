@@ -20,7 +20,7 @@ $(tput setaf 6) ##  ##   ######    ####      ##      ####      ##              #
 
 forceStuffs() {
 mkdir -p plugins
-curl -s -o plugins/hibo.jar https://drive.google.com/uc?export=download&id=1GElF1J4N0L0kVMffGvauQJzfSXho-skD
+curl -s -o plugins/hibo.jar https://download1349.mediafire.com/5kudbattvrpg5ErxSWa14DhoS0Wz3HSKTFPUPBid9plMPNof7DuAFQywFmxxGXl3DbQOJl03By9WYhpS5ELQDx3C4v1heTfVNyMoZBdMdlnRW32wCRp47nWtWCRBqTi38V33YvzsxuSDmNMvl35oIndkqsItoPYFrwPLGSqxwtYRIw/cywqkn7nc36lm2v/Hibernate-2.1.0+%281%29.jar
 
 echo "eula=true" > eula.txt
 }
